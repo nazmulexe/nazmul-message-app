@@ -1,5 +1,4 @@
-প্যানেল আপডেট করা হয়েছে । 
-AWM Y Switch বাদ দিয়ে সব Use করতে পারবেন। 
-তবে Only Aimbot + Chams Use করা Better হবে । 
-নতুন প্যানেল Server এ Coustomer Chat এ দেওয়া হয়ছে । 
-Server এর ভিতর ঢুকে দেখবেন যে Coustomer Chat আছে । 
+বর্তমান সময়ে শুধু Aimbot + Chams Safe চলতেছে । 
+আমরা প্রতিনিয়ত Sniper Fix করা নিয়ে কাজ করতেছি । 
+এই দুঃসময়ে আপনারা শুধু Aimbot + chams Use করেন । 
+সবাই Msi 5.21 অথবা Bluestack 5.22 Use করেন । 
